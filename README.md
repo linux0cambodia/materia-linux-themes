@@ -17,9 +17,9 @@ Also Materia has compatibility with [oomox theme designer](https://github.com/ac
 
 | **Materia** | **standard** | **compact** |
 |:-:|:-:|:-:|
-| **standard** | ![Materia][1] | ![Materia-compact][2] |
-| **dark** | ![Materia-dark][3] | ![Materia-dark-compact][4] |
-| **light** | ![Materia-light][5] | ![Materia-light-compact][6] |
+| **standard** | |  |
+| **dark** |  |  |
+| **light** |  |  |
 
 [1]: ../images/Materia.png?raw=true
 [2]: ../images/Materia-compact.png?raw=true
