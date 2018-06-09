@@ -15,11 +15,11 @@ Also Materia has compatibility with [oomox theme designer](https://github.com/ac
 
 **3 color variants** and **2 size variants** are available:
 
-| **Materia** | **standard** | **compact** |
-|:-:|:-:|:-:|
-| **standard** | |  |
-| **dark** |  |  |
-| **light** |  |  |
+| **Materia** |
+|:-:|
+| **standard** |
+| **dark** |
+| **light** |
 
 [1]: ../images/Materia.png?raw=true
 [2]: ../images/Materia-compact.png?raw=true
